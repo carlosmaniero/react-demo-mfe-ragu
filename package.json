@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "mfe:dev": "ragu-cli dev --file hello-mfe.js",
-    "mfe:build": "ragu-cli static --file hello-mfe.js"
+    "mfe:build": "ragu-cli static --file hello-mfe.js --baseurl https://carlosmaniero.github.io/react-demo-mfe-ragu/"
   },
   "eslintConfig": {
     "extends": [
